@@ -21,17 +21,20 @@ Figure Trajectory of VREP simulation
 Implementation
 ---
 Requirments:
+
 1.Lua
+
 2.MATLAB
+
 3.V-REP PRO EDU
 
 What this repository can provide:
-1. A simplified UAV model simulation in V-Rep                                                                                                                                                                                                                                      
+1. A simplified UAV model simulation in V-Rep                                                                                                                                                                                                                                 
 2. A general framework for P,PD and PID control for Quadrotor trajectory tracking.                   
 3. V-Rep simulation with MATLAB connection.                                                                                                                                     
 4. V-Rep simulation with Lua script.
 
-Programming Project 1-P Control of Quadrotor in 3-D Plane
+Programming Project 1: P Control of Quadrotor in 3-D Plane
 ---
 Objective:
 ---
@@ -63,7 +66,7 @@ Figure .  The Green line is reference Y measured and the Red line is a Y desire.
 
 Figure .  The Green line is reference Z measured and the Red line is a Z desire.
 
-Programming Project 2-PD Control of Quadrotor in 3-D Plane
+Programming Project 2: PD Control of Quadrotor in 3-D Plane
 ---
 Objective:
 ---
@@ -95,7 +98,7 @@ Figure . The Green line is reference Y measured and the Red line is a Y desire.
 
 Figure . The Green line is reference Z measured and the Red line is a Z desire
 
-Programming Project 3-PID Control of Quadrotor in 3-D Plane
+Programming Project 3: PID Control of Quadrotor in 3-D Plane
 ---
 Objective:
 ---
