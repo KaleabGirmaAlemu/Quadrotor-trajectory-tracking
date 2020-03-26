@@ -13,7 +13,9 @@ Tracking trajectories
 ---
 Now that we have all the working parts of a controller, we will put it all together and test 
 it's performance once again on a trajectory. The drone needs to follow a zigzag shaped trajectory. 
+
 ![image](https://user-images.githubusercontent.com/42180253/77605887-1a11c000-6f27-11ea-8ca7-b4dd4940fba7.png)v
+
 Figure Trajectory of VREP simulation
 
 Implementation
